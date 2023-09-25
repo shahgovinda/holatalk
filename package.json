@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "client.js"
+    "start": "client.js",
     "dev": "nodemon server",
     "serve": "node server"
   },
