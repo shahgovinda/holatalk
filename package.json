@@ -2,8 +2,7 @@
   "name": "wassup",
   "version": "1.0.0",
   "description": "",
-  "main": "realtime-chat-app-master/public
-/client.js",
+  "main": "client.js",
   "scripts": {
     "dev": "nodemon server",
     "serve": "node server"
