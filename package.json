@@ -2,8 +2,8 @@
   "name": "wassup",
   "version": "1.0.0",
   "description": "",
-  "main": "client.js",
   "scripts": {
+    "start": "client.js"
     "dev": "nodemon server",
     "serve": "node server"
   },
